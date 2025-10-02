@@ -63,17 +63,6 @@
 
 <hr>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeshanSamarathunga2001&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeshanSamarathunga2001&theme=shadow_blue&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeshanSamarathunga2001&theme=shadow_blue&hide_border=false&layout=compact" />
-</p>
-
-<hr>
-
-### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
